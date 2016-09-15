@@ -2,7 +2,7 @@
 
 This project can be used as a starter for a webapp built with CodeIgniter 3.1.
 
-The (user guide)[http://www.codeigniter.com/user_guide/] has been removed, 
+The [user guide](http://www.codeigniter.com/user_guide/) has been removed, 
 as it can be accessed online.
 
 Additionally, **index.php** has been moved to a **public** folder, and a
